@@ -1,5 +1,5 @@
 def roll_call_dwarves(dwarves)
-  puts ["1. Dopey", "2. Grumpy", "3. Bashful"]
+  puts ["1. Dopey", "2. Grumpy", "3. Bashful", "4. Grumpy"]
 end
 
 def summon_captain_planet(array)
